@@ -1,3 +1,4 @@
+
 # Twitter API Integration with Spring Boot
 
 ## Overview
@@ -26,4 +27,5 @@ The authentication method used is Header-based authentication with a random clie
 - `query`: The query string to search for Twitter users.
 
 **Example Request:**
+
 
